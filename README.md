@@ -84,7 +84,7 @@ docker-compose up -d
 
 **Thành Long**
 
-📧 **Liên hệ**: thanhlongndp@gmail.com
+📧 **Liên hệ**: dothiengiang1994@gmail.com
 
 ## 📜 Giấy Phép
 
